@@ -1,7 +1,7 @@
 streamlit
 pandas
-openpyxl
 ydata-profiling
-seaborn
-matplotlib
+streamlit-pandas-profiling
 plotly
+seaborn
+toml
