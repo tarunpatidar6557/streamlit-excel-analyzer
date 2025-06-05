@@ -67,7 +67,7 @@ Make sure you have Python 3.8+ and these libraries:
 ---
 🌐 Live App
 
-🚀 Hosted on [Streamlit Cloud](url)
+🚀 Hosted on [Streamlit Cloud](https://app-excel-analyzer-usvjrff6wtxyugrmrrktjg.streamlit.app/)
 
 ---
 📁 Project Structure
