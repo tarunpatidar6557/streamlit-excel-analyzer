@@ -90,4 +90,4 @@ streamlit-excel-analyzer/
 
 Tarun Patidar
 
-🔗 [GitHub]([url](https://github.com/tarunpatidar6557)) • [LinkedIn](https://www.linkedin.com/in/tarun-patidar1331/)
+🔗 [GitHub](https://github.com/tarunpatidar6557) • [LinkedIn](https://www.linkedin.com/in/tarun-patidar1331/)
