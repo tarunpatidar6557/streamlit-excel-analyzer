@@ -66,6 +66,7 @@ Make sure you have Python 3.8+ and these libraries:
 
 ---
 🌐 Live App
+
 🚀 Hosted on [Streamlit Cloud](url)
 
 ---
@@ -73,13 +74,20 @@ Make sure you have Python 3.8+ and these libraries:
 
 streamlit-excel-analyzer/
 │
+
 ├── app.py                  # Main Streamlit App
+
 ├── .streamlit/
+
 │   └── config.toml         # Theme settings
+
 ├── screenshots/            # (Optional) UI screenshots
+
 └── README.md
 
 ---
 👨‍💻 Author
+
 Tarun Patidar
+
 🔗 [GitHub]([url](https://github.com/tarunpatidar6557)) • [LinkedIn](https://www.linkedin.com/in/tarun-patidar1331/)
